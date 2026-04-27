@@ -1,0 +1,3 @@
+repository "cs134_project/cs134_project@20067549402013@cloud"
+  path "/"
+    smartbranch "/main"
